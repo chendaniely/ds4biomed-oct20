@@ -2,6 +2,14 @@
 
 This is the repository for the [`ds4biomed`](https://ds4biomed.tech/) materials.
 
+Workshop materials were recorded and can be viewed:
+
+- Part 1: https://www.youtube.com/watch?v=nQ4lbmKD1no
+- Part 2: https://www.youtube.com/watch?v=2eCSmIQN2hU
+
+You can click on the `etherpad.md` file and have github render the notes that were taken during the workshop.
+
+
 ## Download files and data
 
 You can download the files and data to follow along the materials by clicking the green "Code" button on the top.
@@ -20,9 +28,3 @@ Please see the binder section in the lesson materials for more information about
   - This environment may load faster, but you need to do some additional set up.
   - Please follow these instructions to finish the setup:
   - https://ds4biomed.tech/setup.html#binder
-
-
-## Technical notes
-
-The files for the book are hosted in the `master` branch.
-The `learner` branch contains the data and folder structure for leaners going through the materials
